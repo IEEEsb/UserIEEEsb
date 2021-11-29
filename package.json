@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^8.3.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-prettier": "^4.0.0"
+  },
+  "dependencies": {
+    "celebrate": "^15.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.7.1",
+    "pg": "^8.7.1",
+    "sequelize": "^6.12.0-alpha.1",
+	"uServices": "file:utils/uServices",
+    "uuid": "^8.3.2"
+  }
+}

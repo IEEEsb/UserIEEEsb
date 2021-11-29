@@ -1,0 +1,3 @@
+[submodule "utils/uServices"]
+	path = utils/uServices
+	url = git@github.com:IEEEsb/uServicesCommunicator.git
